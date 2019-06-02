@@ -1,0 +1,12 @@
+1|John Smith|123 Here Street|456-4567
+2|Sue Jones|43 Rose Court Street|345-7867
+3|Fan Yuhong|165 Happy Lane|345-4533
+4|Akash Maheshwari|1445 Rue du fort|438-4567
+5|Pallavi Kumar|2250 Guy Street|514-7867
+9|Gargi Sharma|1230 du fort|925-4533
+10|Prabh Singh|2001 Sharbrook Street|104-4567
+7|Umar Ali|2250 Guy Street|205-7867
+6|Anumeet kaur|2205 marc street|514-4533
+8|Vibha verma|2250  De maisonneuve|604-4567
+12|jai khatri|550 rue polic|101-7867
+11|karamveer kaur|6500 rue fontac|438-4533
